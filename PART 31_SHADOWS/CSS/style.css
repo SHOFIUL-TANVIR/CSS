@@ -1,0 +1,27 @@
+h2{
+    font-size:90px;
+    text-align:center;
+    text-shadow: -1px 0 red,0 1px red,1px 0 red, 0 -1px red;
+}
+.tanvir{
+    width:300px;
+    text-align: center;
+    margin: auto;
+    border:1px solid #d4d4d4;
+   
+}
+.tanvir:hover{
+     box-shadow: 3px 8px 10px rgba(0,0,0,0.2),-3px 8px 10px rgba(0,0,0,0.2);
+}
+.tanvir img{
+    width:100%;
+}
+.container{
+    padding:10px;
+}
+
+.tanvir h3{
+    font-size: 20px;
+    text-transform: capitalize;
+    margin:0;
+}

@@ -1,0 +1,19 @@
+.Box{
+    background: #333;
+    height:200px;
+    width:25%;
+    float:left;
+}
+.Box1{
+    background:red;
+}
+.Box2{
+    background:green;
+}
+.Box3{
+    background:purple;
+}
+.Box4{
+    background:blue;
+}
+

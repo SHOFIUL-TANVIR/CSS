@@ -1,0 +1,15 @@
+.bg{
+    width:900px;
+    height:600px;
+    background: url('../photo/dog.jpg') no-repeat center/cover;
+    overflow: hidden;
+    
+    
+}
+.box p{
+    text-align:center;
+    background:#fff;
+    padding:30px;
+    opacity: 0.6;
+    margin-top: 120px
+}
